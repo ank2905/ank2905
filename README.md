@@ -38,7 +38,7 @@ Currently building strong fundamentals and hands-on skills through projects and 
 
 ---
 
-## 🚀 Learning Goals (2025)
+## 🚀 Learning Goals (2026)
 
 - Build real-world DevOps projects  
 - Master Docker & Linux  
