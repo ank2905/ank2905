@@ -23,6 +23,9 @@ Currently Learning: Linux, Git, GitHub, AWS, DevOps
 Goal: DevOps Engineer
 Mindset: Learn. Build. Automate. Improve.
 <!--
+## 📬 Contact Me
+
+- 📧 Email: akurrraj@gmail.com  
 **ank2905/ank2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
