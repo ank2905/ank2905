@@ -38,15 +38,6 @@ Currently building strong fundamentals and hands-on skills through projects and 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankur2905&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ankur2905&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🚀 Learning Goals (2025)
 
 - Build real-world DevOps projects  
