@@ -5,7 +5,7 @@
 ## 👋 Hi, I'm Ankur Raj
 
 🎓 **Student** | 🌩️ **DevOps & Cloud Engineer (Beginner)**  
-📍 India  
+📍 India , Chandigarh   
 
 I am a passionate learner exploring **Web Development, DevOps, Cloud Computing, DSA, and AI**.  
 Currently building strong fundamentals and hands-on skills through projects and practice.
