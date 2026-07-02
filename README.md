@@ -1,41 +1,77 @@
-<div align="center">
-
-# ⚡ ANKUR RAJ ⚡
-
-### 🔐 Aspiring DevOps Engineer
-
-**Cyber Security • Cloud • Linux • GitHub • DevOps**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+DevOps+Engineering;Building+GitHub+Projects;Linux+%7C+AWS+%7C+DevOps;Future+DevOps+Engineer" />
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Ankur%20Raj&fontSize=42&fontColor=ffffff&desc=DevOps%20%7C%20Cloud%20Engineer%20(Beginner)&descSize=18&descAlignY=65)
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Ankur Raj
 
-```yaml
-Name: Ankur Raj
-Role: Aspiring DevOps Engineer
-Location: Chandigarh, India
-Education: B.Sc. Computer Science
-Currently Learning: Linux, Git, GitHub, AWS, DevOps
-Goal: DevOps Engineer
-Mindset: Learn. Build. Automate. Improve.
-<!--
-## 📬 Contact Me
+🎓 **Student** | 🌩️ **DevOps & Cloud Engineer (Beginner)**  
+📍 India  
+
+I am a passionate learner exploring **Web Development, DevOps, Cloud Computing, DSA, and AI**.  
+Currently building strong fundamentals and hands-on skills through projects and practice.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js)
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
+
+### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mysql)
+
+### ⚙️ DevOps & Tools
+![DevOps](https://skillicons.dev/icons?i=git,github,docker,linux)
+
+---
+
+## ☁️ Areas of Interest
+
+- 🌐 Web Development  
+- ⚙️ DevOps Engineering  
+- ☁️ Cloud Computing  
+- 📊 Data Structures & Algorithms (DSA)  
+- 🤖 Artificial Intelligence  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur2905&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ankur2905&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🚀 Learning Goals (2025)
+
+- Build real-world DevOps projects  
+- Master Docker & Linux  
+- Learn Cloud services (AWS fundamentals)  
+- Strengthen DSA for problem-solving  
+- Explore AI & automation  
+
+---
+
+## 🌐 Portfolio
+🔗 https://ank2905.github.io/My-portfolio
+
+---
+
+## 📫 Contact Me
 
 - 📧 Email: akurrraj@gmail.com  
-**ank2905/ank2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Portfolio: https://ank2905.github.io/My-portfolio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Quote I Believe In
+> *"Learning never exhausts the mind."*
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
