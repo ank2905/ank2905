@@ -47,6 +47,8 @@ Currently building strong fundamentals and hands-on skills through projects and 
 - Explore AI & automation  
 
 ---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ank2905&theme=tokyo-night)](https://github.com/ank2905)
+---
 
 ## 🌐 Portfolio
 🔗 https://ank2905.github.io/My-portfolio
